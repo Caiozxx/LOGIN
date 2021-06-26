@@ -11,10 +11,10 @@ html{
     padding: 300px;
 }
 .text{
-    padding-bottom: 0.5%;
+    padding-bottom: 0.5em;
 }
 .password{
-    padding-top: 0.5%;
+    padding-top: 0.5em;
 }
 body {
     margin: 0;
@@ -32,9 +32,9 @@ nav ul {
 }
 
 nav ul li {
-    --c: goldenrod;
+    --c: rgb(18, 110, 216);
     color: var(--c);
-    font-size: 16px;
+    font-size: 12px;
     border: 0.3em solid var(--c);
     border-radius: 0.5em;
     width: 12em;
