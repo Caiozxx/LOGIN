@@ -1,2 +1,1 @@
-login 
-tela de login dinamica
+<h1 algin="center">Login for company</h1>
